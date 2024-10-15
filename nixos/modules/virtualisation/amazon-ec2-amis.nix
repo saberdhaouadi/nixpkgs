@@ -351,6 +351,7 @@ let self = {
 
   # 20.09.2016.19db3e5ea27
   "20.09".eu-west-1.x86_64-linux.hvm-ebs = "ami-0057cb7d614329fa2";
+  "20.09".eu-west-1.x86_64-linux.hvm-ebs = "ami-00fafea3087620f42";
   "20.09".eu-west-2.x86_64-linux.hvm-ebs = "ami-0d46f16e0bb0ec8fd";
   "20.09".eu-west-3.x86_64-linux.hvm-ebs = "ami-0e8985c3ea42f87fe";
   "20.09".eu-central-1.x86_64-linux.hvm-ebs = "ami-0eed77c38432886d2";
