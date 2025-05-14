@@ -257,5 +257,8 @@ let self = {
   "18.03".sa-east-1.hvm-ebs = "ami-163e1f7a";
   "18.03".ap-south-1.hvm-ebs = "ami-6a390b05";
 
+   # 19.09
+   "19.09".eu-west-1.hvm-ebs ="ami-0bd2d499945c26a02";
+
   latest = self."18.03";
 }; in self
