@@ -330,12 +330,12 @@ let self = {
   "20.03".sa-east-1.hvm-ebs = "ami-09859378158ae971d";
 
   # 20.09.1632.a6a3a368dda
-  "20.09".eu-west-1.hvm-ebs = "ami-01a79d5ce435f4db3";
+  "20.09".eu-west-1.hvm-ebs = "ami-01f1034f78d18ee18";
   "20.09".eu-west-2.hvm-ebs = "ami-0cbe14f32904e6331";
   "20.09".eu-west-3.hvm-ebs = "ami-07f493412d6213de6";
   "20.09".eu-central-1.hvm-ebs = "ami-01d4a0c2248cbfe38";
   "20.09".eu-north-1.hvm-ebs = "ami-0003f54dd99d68e0f";
-  "20.09".us-east-1.hvm-ebs = "ami-068a62d478710462d";
+  "20.09".us-east-1.hvm-ebs = "ami-0f3027dfbe39a4b32";
   "20.09".us-east-2.hvm-ebs = "ami-01ac677ff61399caa";
   "20.09".us-west-1.hvm-ebs = "ami-04befdb203b4b17f6";
   "20.09".us-west-2.hvm-ebs = "ami-0fb7bd4a43261c6b2";
